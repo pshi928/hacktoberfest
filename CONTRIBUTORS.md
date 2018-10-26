@@ -1,3 +1,8 @@
+#### Name: [Peter Shi](https://github.com/pshi928)
+- Place: Maryland, United States
+- Bio: Computer Science Major
+- GitHub: [pshi928](https://github.com/pshi928)
+
 #### Name: [Ruta Puodziunaite](https://github.com/rutuke)
 - Place: Dublin, Ireland
 - Bio: Fullstack Web developer and a chemical sciences graduate.
